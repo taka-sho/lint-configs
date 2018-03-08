@@ -1,0 +1,28 @@
+{
+  "name": "@taka-sho/tslint-config",
+  "version": "0.0.6",
+  "description": "Configuration for tslint",
+  "main": "tslint.json",
+  "author": "taka-sho",
+  "dependencies": {
+    "tslint-config-standard": "^7.0.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.9.1",
+    "typescript": "^2.7.2"
+  },
+  "peerDependencies": {
+    "tslint": "5.x"
+  },
+  "scripts": {
+    "test": "tslint test/*.ts"
+  },
+  "keywords": [
+    "taka-sho"
+  ],
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "private": "false"
+}
