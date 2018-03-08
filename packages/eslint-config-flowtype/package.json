@@ -1,6 +1,6 @@
 {
   "name": "@taka-sho/eslint-config-flowtype",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "@takasho/eslint-config": "^0.0.3",
     "babel-eslint": "^8.2.2",
