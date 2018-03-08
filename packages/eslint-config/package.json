@@ -1,8 +1,8 @@
 {
   "name": "@taka-sho/eslint-config",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "main": "index.js",
-  "descrption": "Configuration for eslint",
+  "description": "Configuration for eslint",
   "devDependencies": {
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-eslint-comments": "^2.0.2",
@@ -21,7 +21,6 @@
   "directories": {
     "example": "examples"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "taka-sho",
+  "license": "ISC"
 }
