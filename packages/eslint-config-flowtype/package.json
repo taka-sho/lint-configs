@@ -1,6 +1,6 @@
 {
   "name": "@taka-sho/eslint-config-flowtype",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Configuration for eslint with flow-bin",
   "dependencies": {
     "@takasho/eslint-config": "^0.0.3",
@@ -12,5 +12,8 @@
   },
   "scripts": {
     "test": "eslint . --cache --ext=js,jsx"
-  }
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }

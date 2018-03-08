@@ -1,6 +1,6 @@
 {
   "name": "@taka-sho/eslint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "descrption": "Configuration for eslint",
   "devDependencies": {
@@ -17,5 +17,11 @@
   "scripts": {
     "lint": "eslint . --cache",
     "test": "npm run lint"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
