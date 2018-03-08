@@ -1,7 +1,7 @@
 {
   "name": "@taka-sho/tslint-config",
   "version": "0.0.1",
-  "description": "",
+  "description": "Configuration for tslint",
   "main": "index.js",
   "dependencies": {
     "tslint-config-standard": "^7.0.0"
@@ -16,7 +16,6 @@
   "scripts": {
     "test": "tslint test/*.ts"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["taka-sho"],
   "license": "ISC"
 }
