@@ -1,6 +1,6 @@
 {
   "name": "@taka-sho/tslint-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Configuration for tslint",
   "main": "tslint.json",
   "author": "taka-sho",
@@ -23,5 +23,6 @@
   "license": "ISC",
   "directories": {
     "test": "test"
-  }
+  },
+  "private": "false"
 }
