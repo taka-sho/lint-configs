@@ -1,9 +1,9 @@
 {
-  "name": "@taka-sho/tslint-config",
-  "version": "0.0.0",
-  "description": "@taka-sho's tslint configuration",
+  "name": "@takasho/tslint-config",
+  "version": "0.0.8",
+  "description": "@takasho's tslint configuration",
   "main": "tslint.json",
-  "author": "@taka-sho",
+  "author": "@takasho",
   "bugs": {
     "url": "https://github.com/taka-sho/lint-configs/tslint-config/issues"
   },
