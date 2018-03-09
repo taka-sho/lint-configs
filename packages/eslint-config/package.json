@@ -1,6 +1,6 @@
 {
   "name": "@taka-sho/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "@taka-sho's eslint configuration",
   "main": "index.js",
   "author": "@taka-sho",
