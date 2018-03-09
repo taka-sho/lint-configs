@@ -13,8 +13,8 @@
 	},
 	"private": true,
 	"workspaces": [
-    "packages/*"
-  ],
+		"packages/*"
+	],
 	"scripts": {
 		"test": "lerna run test"
 	}
