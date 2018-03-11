@@ -1,0 +1,28 @@
+{
+  "name": "@takasho/eslint-config-react",
+  "version": "0.0.8",
+  "description": "@takasho's eslint configuration with react",
+  "main": "index.js",
+  "author": "@takasho",
+  "bugs": {
+    "url": "https://github.com/taka-sho/lint-configs/eslint-config-reat/issues"
+  },
+  "dependencies": {
+    "eslint-config-standard-react": "^6.0.0",
+    "eslint-plugin-react": "^7.7.0"
+  },
+  "homepage": "https://github.com/taka-sho/lint-configs/eslint-config-react/readme",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "react",
+    "configs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taka-sho/lint-configs/eslint-config-react.git"
+  },
+  "scripts": {
+    "test": "eslint . --cache --ext=js,jsx"
+  }
+}
