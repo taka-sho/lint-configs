@@ -1,13 +1,13 @@
 {
   "name": "@takasho/eslint-config-flowtype",
   "description": "flowtype with eslint",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "author": "github.com/taka-sho",
   "bugs": {
     "url": "https://github.com/taka-sho/lint-configs/eslint-config/issues"
   },
   "dependencies": {
-    "@takasho/eslint-config": "^0.0.8",
+    "@takasho/eslint-config": "^0.0.10",
     "babel-eslint": "^8.2.2",
     "eslint-plugin-flowtype": "^2.46.1"
   },
