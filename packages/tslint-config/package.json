@@ -1,6 +1,6 @@
 {
   "name": "@takasho/tslint-config",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "@takasho's tslint configuration",
   "main": "tslint.json",
   "author": "@takasho",
