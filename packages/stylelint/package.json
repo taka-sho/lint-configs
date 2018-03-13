@@ -1,0 +1,26 @@
+{
+  "name": "@takasho/stylelint-config",
+  "version": "0.0.10",
+  "description": "@takasho's stylelint configuration",
+  "main": "index.js",
+  "author": "@takasho",
+  "bugs": {
+    "url": "https://github.com/taka-sho/lint-configs/stylelint-config/issues"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "homepage": "https://github.com/taka-sho/lint-configs/stylelint-config/readme",
+  "license": "MIT",
+  "keywords": [
+    "stylelint",
+    "configs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taka-sho/lint-configs/stylelint-config.git"
+  },
+  "scripts": {
+    "test": "stylelint test/*.css"
+  }
+}
