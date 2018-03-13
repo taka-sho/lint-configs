@@ -9,7 +9,7 @@
 npm install -D @takasho/stylelint-config stylelint
 ```
 
-## Usage(tslint.json)
+## Usage(.stylelintrc.js)
 
 ```json
 {
