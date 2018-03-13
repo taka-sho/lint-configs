@@ -1,8 +1,8 @@
 {
   "name": "@takasho/stylelint-config",
   "version": "0.0.10",
-  "description": "@takasho's tslint configuration",
-  "main": "tslint.json",
+  "description": "@takasho's stylelint configuration",
+  "main": "index.js",
   "author": "@takasho",
   "bugs": {
     "url": "https://github.com/taka-sho/lint-configs/stylelint-config/issues"
@@ -13,7 +13,7 @@
   "homepage": "https://github.com/taka-sho/lint-configs/stylelint-config/readme",
   "license": "MIT",
   "keywords": [
-    "tslint",
+    "stylelint",
     "configs"
   ],
   "repository": {
