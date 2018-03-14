@@ -5,7 +5,7 @@ module.exports = {
     'no-descending-specificity': null,
     'value-list-comma-newline-after': null, // use prettier format
     'declaration-colon-newline-after': null, // use prettier format
-    'unit-whitelist': ['rem', '%', 'deg', 'ms', 'vh', 'vw'],
+    'unit-whitelist': ['px', '%', 'deg', 'ms', 'vh', 'vw'],
     'at-rule-no-unknown': [
       true,
       {
