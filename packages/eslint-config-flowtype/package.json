@@ -1,7 +1,7 @@
 {
   "name": "@takasho/eslint-config-flowtype",
   "description": "flowtype with eslint",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "author": "github.com/taka-sho",
   "bugs": {
     "url": "https://github.com/taka-sho/lint-configs/eslint-config/issues"
@@ -12,7 +12,7 @@
     "eslint-plugin-flowtype": "^2.46.1"
   },
   "devDependencies": {
-    "flow-bin": "0.67.1"
+    "flow-bin": "0.68.0"
   },
   "engine": {
     "node": "> 5"
