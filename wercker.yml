@@ -16,7 +16,7 @@ build:
     - script:
         name: install dependencies
         code: |
-        HOME=$YARN_CACHE yarn
+          HOME=$YARN_CACHE yarn
     - npm-test
     - script:
         name: cleanup dev dependencies
