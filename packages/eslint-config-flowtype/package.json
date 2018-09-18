@@ -8,11 +8,11 @@
   },
   "dependencies": {
     "@takasho/eslint-config": "^0.0.10",
-    "babel-eslint": "^8.2.2",
+    "babel-eslint": "^9.0.0",
     "eslint-plugin-flowtype": "^2.46.1"
   },
   "devDependencies": {
-    "flow-bin": "0.76.0"
+    "flow-bin": "0.81.0"
   },
   "engine": {
     "node": "> 5"
