@@ -8,7 +8,7 @@
     "url": "https://github.com/taka-sho/lint-configs/tslint-config/issues"
   },
   "dependencies": {
-    "tslint-config-standard": "^7.0.0"
+    "tslint-config-standard": "^8.0.0"
   },
   "homepage": "https://github.com/taka-sho/lint-configs/tslint-config/readme",
   "license": "MIT",
