@@ -13,7 +13,7 @@ jobs:
       script: yarn run test
 deploy:
 - provider: script
-  script: npm run release
+  script: yarn run release
   skip_cleanup: true
   on:
     repo: taka-sho/lint-configs
