@@ -10,7 +10,7 @@ before_install:
 jobs:
   include:
     - stage: test
-      script: npm run test
+      script: yarn run test
 deploy:
 - provider: script
   script: npm run release
