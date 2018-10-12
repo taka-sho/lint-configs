@@ -17,6 +17,7 @@
 		"packages/*"
 	],
 	"scripts": {
+		"release": "lerna exec --bail=false -- 'can-npm-publish && npm publish && echo done ; echo skip'",
 		"test": "lerna run test"
 	}
 }
