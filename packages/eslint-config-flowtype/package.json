@@ -1,7 +1,7 @@
 {
   "name": "@takasho/eslint-config-flowtype",
   "description": "flowtype with eslint",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "github.com/taka-sho",
   "bugs": {
     "url": "https://github.com/taka-sho/lint-configs/eslint-config/issues"

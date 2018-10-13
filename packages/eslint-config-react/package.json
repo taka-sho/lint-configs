@@ -1,6 +1,6 @@
 {
   "name": "@takasho/eslint-config-react",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "@takasho's eslint configuration with react",
   "main": "index.js",
   "author": "@takasho",
