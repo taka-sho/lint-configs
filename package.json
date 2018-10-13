@@ -6,7 +6,7 @@
 	"author": "github.com/taka-sho",
 	"license": "MIT",
 	"devDependencies": {
-		"eslint": "5.6.1",
+		"eslint": "5.7.0",
 		"lerna": "3.4.3",
 		"stylelint": "9.6.0",
 		"tslint": "5.11.0",
