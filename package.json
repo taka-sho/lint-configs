@@ -1,6 +1,7 @@
 {
 	"name": "lint-configs",
 	"main": "index.js",
+	"version": "1.0.0",
 	"repository": "git@github.com:taka-sho/lint-configs.git",
 	"author": "github.com/taka-sho",
 	"license": "MIT",
